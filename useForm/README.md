@@ -7,5 +7,6 @@ Example of its use:
         age: 0,
         email: '',
     }
+    
     const [formValues, handleInputChange, reset] = useForm(initialForm); 
 ```
